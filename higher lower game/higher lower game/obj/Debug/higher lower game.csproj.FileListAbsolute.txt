@@ -1,0 +1,7 @@
+C:\Users\woody\source\repos\higher lower game\higher lower game\bin\Debug\higher lower game.exe.config
+C:\Users\woody\source\repos\higher lower game\higher lower game\bin\Debug\higher lower game.exe
+C:\Users\woody\source\repos\higher lower game\higher lower game\bin\Debug\higher lower game.pdb
+C:\Users\woody\source\repos\higher lower game\higher lower game\obj\Debug\higher lower game.csproj.AssemblyReference.cache
+C:\Users\woody\source\repos\higher lower game\higher lower game\obj\Debug\higher lower game.csproj.CoreCompileInputs.cache
+C:\Users\woody\source\repos\higher lower game\higher lower game\obj\Debug\higher lower game.exe
+C:\Users\woody\source\repos\higher lower game\higher lower game\obj\Debug\higher lower game.pdb
